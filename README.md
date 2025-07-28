@@ -8,7 +8,7 @@ Feel free to use the application if you want. If you have any feedback, open an 
 
 # Download
 
-Download from my [Website](https://sekashaw.com/) or the [Github releases](https://github.com/Sekashaw/BabelLib/releases) if the [Website](https://sekashaw.com/) is down.
+Download from my [Website](https://sekashaw.com/babellib.html) or the [Github releases](https://github.com/Sekashaw/BabelLib/releases) if the [Website](https://sekashaw.com/babellib.html) is down.
 
 *this project was made in like 3 days*
 <div>
