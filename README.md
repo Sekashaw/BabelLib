@@ -7,11 +7,8 @@ This app was made as a project for a university course. This was not designed to
 Feel free to use the application if you want. If you have any feedback, open an issue in the github repo.
 
 # Download
-![Static Badge](https://img.shields.io/badge/1.0-Download?style=flat-square&label=Download&labelColor=%23000000&color=%238000ff&link=https%3A%2F%2Fwww.sekashaw.com%2F)
 
-![Static Badge](https://img.shields.io/badge/1.0-Download?style=flat-square&label=Github&labelColor=%23000000&color=%23001eff&link=https%3A%2F%2Fgithub.com%2FSekashaw%2FBabelLib%2Freleases)
-
-Download from my Website or the Github releases if the Website is down.
+Download from my [Website](https://sekashaw.com/) or the [Github releases](https://github.com/Sekashaw/BabelLib/releases) if the [Website](https://sekashaw.com/) is down.
 
 *this project was made in like 3 days*
 <div>
